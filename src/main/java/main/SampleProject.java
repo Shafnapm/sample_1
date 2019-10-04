@@ -11,7 +11,7 @@ public class SampleProject {
 		int c =0;
 		c= a+b;
 		return c;
-	}
+	}//
 	public static void main(String args[]) {
 		System.out.println(printHello());
 		System.out.println(add(23,45));
